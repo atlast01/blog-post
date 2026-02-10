@@ -16,10 +16,10 @@ timezone: Thailand/Bangkok
 
 title: Homelap Docs
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Hi there, A docs site for my Homelap project.
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A docs site for my Homelap Project.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
