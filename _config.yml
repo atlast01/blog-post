@@ -1,10 +1,10 @@
 # ==============================================================================
 #  SITE IDENTITY & ENVIRONMENT
 # ==============================================================================
-title: Homelap Docs
-tagline: Hi there, A docs site for my Homelap project.
+title: Homelab Docs
+tagline: Hi there, A docs site for my Homelab project.
 description: >-
-  A docs site for my Homelap Project.
+  A docs site for my Homelab Project.
 
 # Change to your language and timezone
 lang: en
