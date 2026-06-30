@@ -23,7 +23,7 @@ Consectetur fugiat aliquid excepturi animi dolorem ut non voluptatem ab.
 this is a python code pritn "Hello World"
 
 ```py
-pritn("Hello World")
+print("Hello World")
 ```
 
 ### Tho
