@@ -52,3 +52,4 @@ I'm an independent developer passionate about **Software Development**
 * 💬 I'm happy to share my knowledge of programming.
 
 ---
+![At-last logo displayed against a simple background.](/assets/img/Atlast-logo.png){: .rounded .shadow }
