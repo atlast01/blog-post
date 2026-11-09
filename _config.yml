@@ -58,9 +58,8 @@ paginate: 10
 # [disqus | utterances | giscus]
 comments:
   provider: disqus
-
-disqus:
-  shortname: "atlast-blog"
+  disqus:
+    shortname: "atlast-blog"
 
 # PWA system(ทำให้เว็บติดตั้งลงมือถือได้เหมือนแอป)
 pwa:
