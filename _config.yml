@@ -84,7 +84,8 @@ analytics:
   goatcounter:
     id: # Guide: https://goatcounter.com/
   umami:
-    id: # Guide: https://umami.is/
+    id: "51462a21-e866-4678-9f0b-77d275e3d2b0" # Guide: https://umami.is/
+    domain: "cloud.umami.is"
 
 # ==============================================================================
 #  BUILD & PROCESSING SETTINGS
