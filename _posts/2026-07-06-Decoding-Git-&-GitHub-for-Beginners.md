@@ -3,6 +3,7 @@ title: Decoding Git & GitHub for Beginners
 date: 2026-07-06 18:38:00 +0700
 categories: [Git, Command, Basic Command]
 tags: [git, command, basic, basic-command, git-bash]
+comments: true
 ---
 
 # 📁 Confess... Have You Ever "Saved" Your Projects Like This?
