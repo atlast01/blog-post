@@ -57,9 +57,20 @@ paginate: 10
 # Comment system (เลือกหนึ่งรายการเพื่อเปิดใช้งาน)
 # [disqus | utterances | giscus]
 comments:
-  provider: disqus
-  disqus:
-    shortname: "atlast-blog"
+  provider: giscus
+
+giscus:
+  repo: atlast01/blog-post
+  repo_id: R_kgDORKls5Q
+  category: General
+  category_id: DIC_kwDORKls5c4DKsYk
+  mapping: pathname
+  strict: 0
+  reactions_enabled: 1
+  emit_metadata: 0
+  input_position: bottom
+  theme: preferred_color_scheme
+  lang: th
 
 # PWA system(ทำให้เว็บติดตั้งลงมือถือได้เหมือนแอป)
 pwa:
